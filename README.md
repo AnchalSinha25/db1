@@ -57,4 +57,19 @@ Python, MySQL, Database Management, Jupyter Notebook, Error Handling
 
 https://jupyter.org/try-jupyter/lab/index.html?path=notebooks%2Fcreate+db.ipynb
 
+**Output**
+Success Output:
+If the script executes successfully, the output should be:
+
+Table 'users' created successfully.
+
+Error Output:
+If there's an error during the execution (e.g., connection error, syntax error, etc.), the script will print an error message. For example:
+
+Error: <error_message>
+
+Connection Error Output:
+If there is an issue connecting to the MySQL server, the error might look like:
+
+Error: 2003: Can't connect to MySQL server on 'myhost' (timed out)
 
