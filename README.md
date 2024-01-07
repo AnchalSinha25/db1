@@ -27,6 +27,34 @@ RDBMS --> ACID prop
 	2. Python 3.6 or later version
 	3. Jupyter Notebook
 
-![image](https://github.com/AnchalSinha25/db1/assets/89031662/1b9953b7-0810-45a1-8613-681d298e312b)
+Project Name: Database Creation with Python
+**Requirements**
+**MySQL:**
+Ensure that MySQL is installed on your machine. You can download it from MySQL official website.
+
+**Python 3.6 or later version:**
+Make sure you have Python 3.6 or a later version installed. You can download it from Python official website.
+
+**Jupyter Notebook:**
+Jupyter Notebook is required to run the Python script. You can install it using the following command:
+bash
+Copy code
+pip install notebook
+Project Setup
+
+**My Contributions:**
+
+Implemented the Python script to connect to MySQL and create a table named 'users'.
+Utilized Jupyter Notebook for an interactive development environment.
+Handled error scenarios using try, except, and finally blocks.
+
+**Skills Demonstrated:**
+Python, MySQL, Database Management, Jupyter Notebook, Error Handling
+
+![image](https://github.com/AnchalSinha25/db1/assets/89031662/37203398-f14b-4202-9a88-cef6c2bdc009)
+
+![image](https://github.com/AnchalSinha25/db1/assets/89031662/34daed24-7b43-4a06-993e-3ca8864b12eb)
+
+
 
 
