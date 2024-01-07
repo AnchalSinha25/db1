@@ -55,6 +55,6 @@ Python, MySQL, Database Management, Jupyter Notebook, Error Handling
 
 ![image](https://github.com/AnchalSinha25/db1/assets/89031662/34daed24-7b43-4a06-993e-3ca8864b12eb)
 
-
+https://jupyter.org/try-jupyter/lab/index.html?path=notebooks%2Fcreate+db.ipynb
 
 
