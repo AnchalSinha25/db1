@@ -1,9 +1,10 @@
 # db1
-#CREATING DATABASE AND TABLES USING PYTHON
+**#CREATING DATABASE AND TABLES USING PYTHON
 
-#Project Name: Database Creation with Python
+#Project Name: Database Creation with Python**
 
-#KEYNOTES
+**#KEYNOTES**
+
 Data Model 
 Data model is an abstract model that organizes elements of data and standardizes how they relate to one other and to the properties of real world entities.
 ![image](https://github.com/AnchalSinha25/db1/assets/89031662/2b24022d-388e-4792-85fb-985a3b91da92)
